@@ -1,13 +1,34 @@
 {
   "files": {
-    "main.css": "/ScrapBook/static/css/main.e6866750.css",
-    "main.js": "/ScrapBook/static/js/main.9565d136.js",
-    "index.html": "/ScrapBook/index.html",
-    "main.e6866750.css.map": "/ScrapBook/static/css/main.e6866750.css.map",
-    "main.9565d136.js.map": "/ScrapBook/static/js/main.9565d136.js.map"
+    "main.css": "/Portfolio/static/css/main.b6648869.css",
+    "main.js": "/Portfolio/static/js/main.bab8fb8b.js",
+    "static/media/c++.png": "/Portfolio/static/media/c++.666af1b3598c92045b63.png",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.e2fcb24900f15448c0cd.pdf",
+    "static/media/pic.jpg": "/Portfolio/static/media/pic.0d168f3b8901a44001a1.jpg",
+    "static/media/scrapbook.avif": "/Portfolio/static/media/scrapbook.04406385ae3eeb896785.avif",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/profile.jpg": "/Portfolio/static/media/profile.6b278e38566ea09b6b1a.jpg",
+    "static/media/snake.avif": "/Portfolio/static/media/snake.f26542cdf0954ffb73f7.avif",
+    "static/media/node.png": "/Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/weather.avif": "/Portfolio/static/media/weather.dc5eda39b9f86e31d1e3.avif",
+    "static/media/images2.avif": "/Portfolio/static/media/images2.78a9d1a8cd24d502b444.avif",
+    "static/media/guess.avif": "/Portfolio/static/media/guess.b626173509781d5c054d.avif",
+    "static/media/images.avif": "/Portfolio/static/media/images.9228a6132a8e11416f6d.avif",
+    "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/images3.avif": "/Portfolio/static/media/images3.a6b3e8be1e49e84d6a49.avif",
+    "static/media/piano.avif": "/Portfolio/static/media/piano.d9ade3791783fc32e49b.avif",
+    "static/media/calculator.avif": "/Portfolio/static/media/calculator.cb787f0c87aface6f7fa.avif",
+    "static/media/js.png": "/Portfolio/static/media/js.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/Patient.avif": "/Portfolio/static/media/Patient.a425748cc62251b54862.avif",
+    "index.html": "/Portfolio/index.html",
+    "main.b6648869.css.map": "/Portfolio/static/css/main.b6648869.css.map",
+    "main.bab8fb8b.js.map": "/Portfolio/static/js/main.bab8fb8b.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6866750.css",
-    "static/js/main.9565d136.js"
+    "static/css/main.b6648869.css",
+    "static/js/main.bab8fb8b.js"
   ]
 }
