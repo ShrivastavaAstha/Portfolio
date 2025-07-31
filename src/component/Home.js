@@ -6,7 +6,7 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import MailOutlineIcon from "@mui/icons-material/MailOutline";
 import PersonIcon from "@mui/icons-material/Person";
-import Resume from "../component/Resume.pdf";
+import Resume from "../assets/Astha_Resume.pdf";
 import "./navbar.css";
 import pic from "../component/pic.jpg";
 import ArrowForwardIcon from "@mui/icons-material/ArrowForward";
