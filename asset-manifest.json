@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.b6648869.css",
-    "main.js": "/Portfolio/static/js/main.bab8fb8b.js",
+    "main.js": "/Portfolio/static/js/main.98dffdc8.js",
     "static/media/c++.png": "/Portfolio/static/media/c++.666af1b3598c92045b63.png",
-    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.e2fcb24900f15448c0cd.pdf",
+    "static/media/Astha_Resume.pdf": "/Portfolio/static/media/Astha_Resume.e5df1a266b402974d0c7.pdf",
     "static/media/pic.jpg": "/Portfolio/static/media/pic.0d168f3b8901a44001a1.jpg",
     "static/media/scrapbook.avif": "/Portfolio/static/media/scrapbook.04406385ae3eeb896785.avif",
     "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -22,13 +22,14 @@
     "static/media/piano.avif": "/Portfolio/static/media/piano.d9ade3791783fc32e49b.avif",
     "static/media/calculator.avif": "/Portfolio/static/media/calculator.cb787f0c87aface6f7fa.avif",
     "static/media/js.png": "/Portfolio/static/media/js.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/bs.jpg": "/Portfolio/static/media/bs.9665c440214bdf00146d.jpg",
     "static/media/Patient.avif": "/Portfolio/static/media/Patient.a425748cc62251b54862.avif",
     "index.html": "/Portfolio/index.html",
     "main.b6648869.css.map": "/Portfolio/static/css/main.b6648869.css.map",
-    "main.bab8fb8b.js.map": "/Portfolio/static/js/main.bab8fb8b.js.map"
+    "main.98dffdc8.js.map": "/Portfolio/static/js/main.98dffdc8.js.map"
   },
   "entrypoints": [
     "static/css/main.b6648869.css",
-    "static/js/main.bab8fb8b.js"
+    "static/js/main.98dffdc8.js"
   ]
 }
