@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.b6648869.css",
-    "main.js": "/Portfolio/static/js/main.2d3ec759.js",
+    "main.js": "/Portfolio/static/js/main.1ce36db5.js",
     "static/media/c++.png": "/Portfolio/static/media/c++.666af1b3598c92045b63.png",
-    "static/media/Astha_Resume.pdf": "/Portfolio/static/media/Astha_Resume.e5df1a266b402974d0c7.pdf",
     "static/media/pic.jpg": "/Portfolio/static/media/pic.0d168f3b8901a44001a1.jpg",
     "static/media/scrapbook.avif": "/Portfolio/static/media/scrapbook.04406385ae3eeb896785.avif",
     "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -26,10 +25,10 @@
     "static/media/Patient.avif": "/Portfolio/static/media/Patient.a425748cc62251b54862.avif",
     "index.html": "/Portfolio/index.html",
     "main.b6648869.css.map": "/Portfolio/static/css/main.b6648869.css.map",
-    "main.2d3ec759.js.map": "/Portfolio/static/js/main.2d3ec759.js.map"
+    "main.1ce36db5.js.map": "/Portfolio/static/js/main.1ce36db5.js.map"
   },
   "entrypoints": [
     "static/css/main.b6648869.css",
-    "static/js/main.2d3ec759.js"
+    "static/js/main.1ce36db5.js"
   ]
 }
